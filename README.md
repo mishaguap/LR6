@@ -1,2 +1,2 @@
 # LR6
-Автодеплой через GitHub Actions
+Автодеплой через GitHub Actiоns
